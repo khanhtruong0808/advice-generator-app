@@ -32,7 +32,7 @@ const AdviceGenerator = () => {
         <img src="pattern-divider-mobile.svg" alt="" className="mb-5 w-full" />
       </div>
       <button
-        className="bg-primary-100 rounded-full p-4 relative bottom-6 hover:shadow-3xl"
+        className="bg-primary-100 rounded-full p-4 relative bottom-6 active:shadow-3xl"
         onClick={handleClick}
         disabled={isLoading}
       >
