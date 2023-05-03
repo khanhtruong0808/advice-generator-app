@@ -27,4 +27,4 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://khanhtruong0808.github.io/advice-generator-app/
+- Solution URL: https://advice-generator-app-ten-sepia.vercel.app/
